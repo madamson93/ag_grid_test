@@ -1,0 +1,15 @@
+.ag-grid-container {
+	height: 500px;
+}
+
+.grid-header-make, .grid-header-appearance, .grid-header-price, .grid-header-rating, .grid-header-country {
+	color: #000080;
+}
+
+.model-child-model, .model-child-year, .model-child-engine, .model-child-colour {
+	background: #F0FFFF;
+}
+
+.grid-cell-country {
+	background: #DCDCDC;
+}
